@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there!! 👋
+
+I am Shafeek Zakko recently graduated my bachelors in Information technology engineering from KTH.
+I am now studying my 4th year and chasing my MSc degree in Robotics/machine learning. 
+
+Currently on an exchange semester at the university of PoliTecnico Milano
+Currently part time employed as a NOC Engineer at NetNordic Sweden.
+I have worked in multiple projects within my studies at KTH, including the project PadelPal (accessible under my oorganisations) 
+I am fluent in three languages; Arabic, English and Swedish
+You can reach me through my Linkedin profile or via my e-mail : sean.zakko@yahoo.com
+
 
 <!--
 **ShaffZ/ShaffZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
